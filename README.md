@@ -1,0 +1,2 @@
+# Discord
+Bases de Discord
